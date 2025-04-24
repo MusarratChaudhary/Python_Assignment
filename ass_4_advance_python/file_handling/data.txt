@@ -1,0 +1,3 @@
+Hello, this is Musarrat!
+This is write mode :)
+This is extra info added later.
